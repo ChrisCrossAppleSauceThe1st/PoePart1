@@ -36,7 +36,7 @@ public class Login {
         return enteredUsername.equals(username) && enteredPassword.equals(password);
 
     }
-    //Method that handles the full user registration processss
+    //Method that handles the full user registration process
     public String Register() {
 
         //Prompt to enter users first and last name
